@@ -1803,7 +1803,18 @@ body {
   color: #d8df2c;
 }
 .cid-r7JUChLatf {
-  background: linear-gradient(45deg, #263b11, #111d05);
+  background: linear-gradient(45deg, #263b11, #080d04);
+}
+.cid-r7JUChLatf .mbr-text,
+.cid-r7JUChLatf .mbr-section-btn {
+  text-align: left;
+}
+.cid-r7Mq5xwHxf {
+  background: linear-gradient(45deg, #121753, #080d04);
+}
+.cid-r7Mq5xwHxf .mbr-text,
+.cid-r7Mq5xwHxf .mbr-section-btn {
+  text-align: left;
 }
 .cid-r7JVuigP0L {
   padding-top: 30px;
