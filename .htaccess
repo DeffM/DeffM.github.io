@@ -1,1 +1,1 @@
-RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
+
