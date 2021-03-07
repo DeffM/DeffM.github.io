@@ -1,2 +1,2 @@
-RewriteCond %{HTTP_HOST} ^www\.(.*)$
+RewriteCond %{HTTP_HOST} ^*\.(.*)$
 RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
